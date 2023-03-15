@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/e2e-test-runner:v20221012-controller-v1.4.0-14-g93df79676@sha256:9ab6a412b0ea6ae77abc80309608976ec15141e146fa91ef4352400cb9051086
+FROM k8s.gcr.io/ingress-nginx/e2e-test-runner:v20210822-g5e5faa24d@sha256:55c568d9e35e15d94b3ab41fe549b8ee4cd910cc3e031ddcccd06256755c5d89
